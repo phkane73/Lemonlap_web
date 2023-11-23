@@ -1,0 +1,36 @@
+#app {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f6f0d7;
+}
+
+ul li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none !important;
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+.link {
+  color: black;
+  font-weight: 400;
+  transition: all 0.2s linear;
+}
+
+.link:hover {
+  color: white;
+}
+
+.container-fluid {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.linkGr:hover {
+  color: #12b044;
+}

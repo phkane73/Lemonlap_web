@@ -1,0 +1,24 @@
+{
+  "name": "adminpage",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "app-root-path": "^3.1.0",
+    "axios": "^1.5.1",
+    "express-fileupload": "^1.4.1",
+    "form-data": "^4.0.0",
+    "moment": "^2.29.4",
+    "path": "^0.12.7",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.1",
+    "vite": "^4.4.9"
+  }
+}
